@@ -1,5 +1,7 @@
 /*
- * Version 1.4 - Team Webgalli: Updated for Elgg 1.9 and above.
+ * Version 1.5 - Team Webgalli: Updated for Elgg 1.9 and above.
+ *
+ * Version 1.4 - Team Webgalli: Updated for Elgg 1.8 and above.
  * 
  * Version 1.3 - Team Webgalli: Modified such that friendship with multiple tom users are possible and 
  * a settings page to enter the guid values of the multiple toms.

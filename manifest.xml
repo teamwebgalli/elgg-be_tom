@@ -3,7 +3,7 @@
 	<name>be_tom</name>
 	<id>be_tom</id>
 	<author>Zac Hopkinson, Steve Clay, Team Webgalli</author>
-	<version>1.4</version>
+	<version>1.5</version>
 	<category>Team Webgalli</category>
 	<category>user</category>
 	<description>Maintains a friendship between a designated user and every other site user. Like Tom on MySpace.</description>
