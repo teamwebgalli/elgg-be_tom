@@ -1,0 +1,15 @@
+/*
+ * Version 1.4 - Team Webgalli: Updated for Elgg 1.9 and above.
+ * 
+ * Version 1.3 - Team Webgalli: Modified such that friendship with multiple tom users are possible and 
+ * a settings page to enter the guid values of the multiple toms.
+ * 
+ * Version 1.2 - Steve Clay: rewrote to maintain the friendship on every login
+ * rather than registration. Also, non-admins cannot remove the tom user from friends.
+ *
+ * Version 1.1 - Zac
+ * (version 1.1 fixes an issue where it works with the latest svn version, but not the 'stable' 1.0 release)
+ * It's a low priority, but a future todo item will be a page in the admin interface to allow you to 
+ * configure this plugin easily w/o messing with code. It's a very low priority, but if there is a lot
+ * of interest I will start on it.
+ */
