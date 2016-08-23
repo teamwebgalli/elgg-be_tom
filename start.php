@@ -1,7 +1,6 @@
 <?php
 
 elgg_register_event_handler('init', 'system', 'betom_init');
-//define('ELGG_BE_TOM_USERNAME', 'onlinesupport');
 function betom_init() {
 	// For new users
 	elgg_register_event_handler('create', 'user', 'betom_friend_with_tom_user', 501);
