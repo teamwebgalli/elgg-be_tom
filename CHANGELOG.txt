@@ -1,4 +1,6 @@
 /*
+ * Version 2.0 - Team Webgalli: Updated for Elgg 2.0 and above.
+ *
  * Version 1.5 - Team Webgalli: Updated for Elgg 1.9 and above.
  *
  * Version 1.4 - Team Webgalli: Updated for Elgg 1.8 and above.
